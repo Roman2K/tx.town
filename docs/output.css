@@ -554,11 +554,6 @@ video {
   --tw-contain-style:  ;
 }
 
-.mx-auto {
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .mb-4 {
   margin-bottom: 1rem;
 }
@@ -587,20 +582,8 @@ video {
   height: 0.875rem;
 }
 
-.h-screen {
-  height: 100vh;
-}
-
-.h-56 {
-  height: 14rem;
-}
-
 .w-3\.5 {
   width: 0.875rem;
-}
-
-.grid-cols-3 {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .grid-cols-1 {
@@ -621,10 +604,6 @@ video {
 
 .gap-4 {
   gap: 1rem;
-}
-
-.gap-10 {
-  gap: 2.5rem;
 }
 
 .rounded-lg {
